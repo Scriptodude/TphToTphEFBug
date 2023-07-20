@@ -1,7 +1,7 @@
 # TphToTphEFBug
 TPH-to-TPH entity reference causing an endless migration bug
 
-Example repository for EF Core bug https://github.com/dotnet/efcore/issues/30199
+Example repository for EF Core bug https://github.com/dotnet/efcore/issues/31314
 
 ## Steps to reproduce:
 
